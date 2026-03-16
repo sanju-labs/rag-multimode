@@ -2,18 +2,15 @@
 # Pinned versions that work together without import errors.
 # Install with: pip install -r requirements.txt
 
-streamlit==1.37.1
-
-langchain==0.2.16
-langchain-community==0.2.16
-langchain-openai==0.1.23
-langchain-groq==0.1.10
-langchain-huggingface==0.0.3
-
-faiss-cpu==1.8.0
-sentence-transformers==2.7.0
-
-pypdf==4.3.1
-python-dotenv==1.0.1
-rank-bm25==0.2.2
-tiktoken==0.7.0
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv
+rank-bm25
+tiktoken
